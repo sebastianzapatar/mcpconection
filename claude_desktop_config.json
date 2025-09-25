@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-ventas": {
+      "command": "C:\\Users\\sebastian.zapata23\\OneDrive - Universidad EIA\\Documentos\\implementacion\\mcp\\.venv\\Scripts\\python.exe",
+      "args": ["-u", "C:\\Users\\sebastian.zapata23\\OneDrive - Universidad EIA\\Documentos\\implementacion\\mcp\\server.py"],
+      "env": {
+        "PG_HOST": "localhost",
+        "PG_PORT": "5432",
+        "PG_DB": "ventasdb",
+        "PG_USER": "postgres",
+        "PG_PASSWORD": "123"
+      }
+    }
+  }
+}
